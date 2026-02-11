@@ -1,0 +1,9 @@
+{
+  "name": "docker-gha-demo",
+  "version": "1.0.0",
+  "description": "Demo Docker GHA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
