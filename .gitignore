@@ -1,0 +1,10 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar logs de npm
+npm-debug.log*
+yarn-debug.log*
+
+# Ignorar posibles carpetas de Docker
+.docker/
+coverage/

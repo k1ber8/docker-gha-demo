@@ -2,10 +2,9 @@
   "name": "docker-gha-demo",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node index.js",
-    "test": "jest --runInBand"
+    "test": "jest --coverage"
   },
   "dependencies": {
     "express": "^4.18.2"
